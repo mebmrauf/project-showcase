@@ -1,5 +1,7 @@
 #  🚀 Project Showcase
 
+**A collection of my coding projects—most are still in progress as I continue working on them to enrich my portfolio.**
+
 ### **1️⃣ UngaBunga** — *E-commerce Website for Grocery Shopping*  
 🛠 **MERN Stack, Tailwind CSS**  
 🔗 [GitHub Repository](https://github.com/mebmrauf/UngaBunga)
